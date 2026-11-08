@@ -1,0 +1,3 @@
+cd "C:\Users\celik\.gemini\antigravity\scratch\launchpad"
+git remote add origin https://github.com/<KULLANICI_ADINIZ>/launchpad.git
+git push -u origin main
